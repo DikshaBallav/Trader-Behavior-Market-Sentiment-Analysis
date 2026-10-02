@@ -308,6 +308,6 @@ ds_diksha_ballav/
 
 ### Diksha Ballav
 
-**AI/ML Engineer | Data Science | Machine Learning | Data Analytics**
+**AI/ML | Data Science | Machine Learning | Data Analytics**
 
 This project was developed as part of a Data Science assignment involving trader behavior and market sentiment analysis.
