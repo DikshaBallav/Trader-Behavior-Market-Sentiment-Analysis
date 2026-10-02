@@ -304,14 +304,6 @@ ds_diksha_ballav/
 
 ---
 
-## 📄 Project Report
-
-The detailed analysis and visualizations are available in:
-
-`ds_report.pdf`
-
----
-
 ## 👩‍💻 Author
 
 ### Diksha Ballav
