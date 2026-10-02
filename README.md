@@ -304,20 +304,6 @@ ds_diksha_ballav/
 
 ---
 
-## 📌 Future Improvements
-
-Potential extensions include:
-
-- Predictive modeling for next-day profitability
-- Trader-level clustering
-- Correlation analysis between sentiment intensity and PnL
-- Time-series analysis of trader behavior
-- More detailed risk metrics
-- Feature importance analysis
-- Validation of findings across different market periods
-
----
-
 ## 📄 Project Report
 
 The detailed analysis and visualizations are available in:
