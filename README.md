@@ -144,7 +144,7 @@ The project compares trader performance and behavior across the two sentiment re
 
 ### Example Visualization
 
-![Average Daily PnL - Fear vs Greed](outputs/avg_pnl_fear_vs_greed.png)
+![Average Daily PnL - Fear vs Greed](https://github.com/DikshaBallav/ds_diksha_ballav/blob/main/output.png)
 
 The analysis shows a difference in average daily PnL between Fear and Greed periods, with Fear periods showing higher average daily PnL in the analyzed dataset.
 
